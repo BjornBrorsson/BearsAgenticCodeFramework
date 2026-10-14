@@ -27,6 +27,8 @@ This repository provides two tailored versions of the framework so you can match
 * 🏢 **`Enterprise Edition/`**: Built for complex, regulated, or multi-service production environments (e.g., fintech, legacy databases, strict compliance). Emphasizes deep grounding, strict isolation, database migration safety, contract testing, and thorough documentation audit trails.
 * 🚀 **`Startup Edition/`**: Streamlined for high-velocity greenfield projects, indie apps, and rapid prototyping. Retains the modular phase routing and persistent memory benefits while cutting out heavy ceremony for faster iteration.
 
+Or to summarize; Use Enterprise Edition at work and use Startup Edition for your own stuff.
+
 ---
 
 ## 🔄 How It Works: Progressive Disclosure
